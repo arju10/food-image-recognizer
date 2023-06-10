@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Food Image Recognizer
+description: An image classification API that classifies 11 different types of foods around the world
+
+author:
+  name: Arju
